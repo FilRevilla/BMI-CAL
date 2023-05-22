@@ -1,8 +1,8 @@
 * {
     font-family: Quicksand;
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
-    color: #050505;
+    color: #0e0d0d;
 }
 
 body {
@@ -15,23 +15,23 @@ body {
 
 .form {
     background-color: #0abfec;
-    height: 600px;
+    height: 760px;
     width: 500px;
     border-radius: 20px;
     margin: 20px auto 20px auto;
     display: block;
-    border: solid 5px #050001;
+    border: solid 5px #111010;
     box-shadow: 0 0 40px 0 #110f0f;
 }        
 
 .form:hover {
-    box-shadow: 0 0 30px 0 #2c1d1d;
+    box-shadow: 0 0 30px 0 #050113;
     transition: .4s;
     transform: scale(1.02);
 }
 
 .row-one {
-    padding: 10px;
+    padding: 40px;
     text-align: center;
 }
 
